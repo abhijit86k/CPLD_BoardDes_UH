@@ -1,0 +1,10 @@
+GIT Command Summary
+====================
+
+1. Work with your files, make the changes and save it.
+2. In the terminal of the wokring directory put the following commands to update in the GIT server:
+	a. git status -- checks the list of untracked file.
+	b. git add <file_name1> <file_name2> ..  -- individually add the file/folder name which you have changed or added to the git tree
+	c. git commit -m "Message" -- commit the additions and changes to the tree by giving a message for our reference
+	d. git push origin master -- pushes the changes from the local to the server
+	e. git pull origin master -- updates from server to the local copy 
