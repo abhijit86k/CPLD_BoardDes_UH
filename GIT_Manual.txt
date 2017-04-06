@@ -8,3 +8,9 @@ GIT Command Summary
 	c. git commit -m "Message" -- commit the additions and changes to the tree by giving a message for our reference
 	d. git push origin master -- pushes the changes from the local to the server
 	e. git pull origin master -- updates from server to the local copy 
+
+
+
+
+To modify
+git add *
