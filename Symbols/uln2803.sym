@@ -1,4 +1,4 @@
-v 20130925 2
+v 20150930 2
 B 200 0 1000 2000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 P 0 1800 200 1800 1 0 0
 {
@@ -106,7 +106,7 @@ pintype=unknown
 T 1400 200 5 10 0 0 180 0 1
 pinseq=10
 T 1145 195 5 10 1 1 0 6 1
-pinlabel=O8
+pinlabel=COM
 T 1295 245 5 10 1 1 0 0 1
 pinnumber=10
 }
@@ -117,7 +117,7 @@ pintype=unknown
 T 1400 400 5 10 0 0 180 0 1
 pinseq=11
 T 1145 395 5 10 1 1 0 6 1
-pinlabel=I2
+pinlabel=O8
 T 1295 445 5 10 1 1 0 0 1
 pinnumber=11
 }
