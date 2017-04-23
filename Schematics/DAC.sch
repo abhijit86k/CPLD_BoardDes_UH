@@ -26,7 +26,7 @@ device=CAPACITOR
 T 43700 45900 5 10 0 0 90 0 1
 symversion=0.1
 T 44600 45700 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 45000 46200 5 10 1 1 180 0 1
 refdes=C701
 T 44600 45800 5 10 1 1 0 0 1
@@ -173,7 +173,7 @@ device=CAPACITOR
 T 44700 45900 5 10 0 0 90 0 1
 symversion=0.1
 T 45600 45700 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 45850 46350 5 10 1 1 180 0 1
 refdes=C702
 T 45600 45800 5 10 1 1 0 0 1
@@ -186,7 +186,7 @@ device=CAPACITOR
 T 45500 45900 5 10 0 0 90 0 1
 symversion=0.1
 T 46400 45700 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 46750 46400 5 10 1 1 180 0 1
 refdes=C703
 T 46400 45800 5 10 1 1 0 0 1
@@ -222,7 +222,7 @@ device=CAPACITOR
 T 49100 47800 5 10 0 0 90 0 1
 symversion=0.1
 T 50000 47600 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 50400 48200 5 10 1 1 180 0 1
 refdes=C704
 T 49400 48100 5 10 1 1 0 0 1
@@ -256,7 +256,7 @@ device=CAPACITOR
 T 49000 45400 5 10 0 0 90 0 1
 symversion=0.1
 T 49900 45200 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 50200 45900 5 10 1 1 180 0 1
 refdes=C705
 T 49900 45300 5 10 1 1 0 0 1
@@ -269,7 +269,7 @@ device=CAPACITOR
 T 48200 45400 5 10 0 0 90 0 1
 symversion=0.1
 T 49100 45200 5 10 0 1 0 0 1
-footprint=1206
+footprint=0805
 T 49350 45850 5 10 1 1 180 0 1
 refdes=C706
 T 49100 45300 5 10 1 1 0 0 1
@@ -336,4 +336,4 @@ T 50350 40150 9 10 1 0 0 0 1
 T 54500 40250 9 10 1 0 0 0 1
 Sumit Pramanick
 T 52100 40150 9 10 1 0 0 0 1
-11
+13
