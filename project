@@ -1,5 +1,5 @@
-#Import(gnetlist, ./Schematics/ADC.sch, ./Schematics/connections1.sch,  ./Schematics/connections_2.sch,  ./Schematics/connections_3.sch,  ./Schematics/cpld.sch,  ./Schematics/Current_condn.sch,  ./Schematics/DAC.sch,  ./Schematics/handshaking.sch,  ./Schematics/power.sch,  ./Schematics/Sensor.sch, ./Schematics/Voltage_sensor.sch)
-
-./Schematics/ADC.sch ./Schematics/connections1.sch ./Schematics/connections_2.sch ./Schematics/connections_3.sch ./Schematics/cpld.sch ./Schematics/Current_condn.sch ./Schematics/DAC.sch ./Schematics/handshaking.sch ./Schematics/power.sch ./Schematics/Sensor.sch ./Schematics/Voltage_sensor.sch
-elements-dir./footprints
-output-name cpld
+schematics ./Schematics/ADC.sch  ./Schematics/connections1.sch  ./Schematics/connections_2.sch  ./Schematics/connections_3.sch  ./Schematics/connector.sch  ./Schematics/cpld.sch  
+	./Schematics/Current_condn.sch  ./Schematics/DAC.sch  ./Schematics/Fault.sch  ./Schematics/handshaking.sch  ./Schematics/power.sch  ./SchematicsSensor.sch  ./Schematics/Voltage_sensor.sch
+elements-dir ./footprints 
+elements-dir /usr/share/pcb
+output-name CPLD
