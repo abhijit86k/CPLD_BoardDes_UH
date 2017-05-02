@@ -3,6 +3,10 @@ C 44500 53000 1 0 0 AD622.sym
 {
 T 45845 53422 5 10 1 1 0 0 1
 refdes=U601
+T 44500 53000 5 10 0 1 0 0 1
+footprint=SO8
+T 44500 53000 5 10 0 1 0 0 1
+device=AD622
 }
 C 42000 54000 1 0 0 resistor-1.sym
 {
@@ -226,7 +230,7 @@ refdes=U602
 T 48800 56025 5 8 0 0 0 0 1
 symversion=1.0
 T 48800 54800 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 }
 N 48800 53300 48400 53300 4
 N 48400 53300 48400 52500 4
@@ -317,6 +321,10 @@ C 44400 48300 1 0 0 AD622.sym
 {
 T 45745 48722 5 10 1 1 0 0 1
 refdes=U603
+T 44400 48300 5 10 0 1 0 0 1
+footprint=SO8
+T 44400 48300 5 10 0 1 0 0 1
+device=AD622
 }
 C 41900 49300 1 0 0 resistor-1.sym
 {
@@ -538,7 +546,7 @@ device=TL084
 T 48700 51325 5 8 0 0 0 0 1
 symversion=1.0
 T 48700 50100 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 T 49600 48900 5 10 1 1 0 0 1
 refdes=U604
 T 48700 48400 5 10 0 1 0 0 1
@@ -634,6 +642,10 @@ C 44500 43000 1 0 0 AD622.sym
 {
 T 45845 43422 5 10 1 1 0 0 1
 refdes=U605
+T 44500 43000 5 10 0 1 0 0 1
+footprint=SO8
+T 44500 43000 5 10 0 1 0 0 1
+device=AD622
 }
 C 42000 44000 1 0 0 resistor-1.sym
 {
@@ -855,7 +867,7 @@ device=TL084
 T 48800 46025 5 8 0 0 0 0 1
 symversion=1.0
 T 48800 44800 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 T 49700 43600 5 10 1 1 0 0 1
 refdes=U606
 T 48800 43100 5 10 0 1 0 0 1
@@ -950,6 +962,10 @@ C 56000 53000 1 0 0 AD622.sym
 {
 T 57345 53422 5 10 1 1 0 0 1
 refdes=U607
+T 56000 53000 5 10 0 1 0 0 1
+footprint=SO8
+T 56000 53000 5 10 0 1 0 0 1
+device=AD622
 }
 C 53500 54000 1 0 0 resistor-1.sym
 {
@@ -1171,7 +1187,7 @@ device=TL084
 T 60300 56025 5 8 0 0 0 0 1
 symversion=1.0
 T 60300 54800 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 T 61200 53700 5 10 1 1 0 0 1
 refdes=U608
 }
@@ -1264,6 +1280,10 @@ C 55900 48300 1 0 0 AD622.sym
 {
 T 57245 48722 5 10 1 1 0 0 1
 refdes=U609
+T 55900 48300 5 10 0 1 0 0 1
+footprint=SO8
+T 55900 48300 5 10 0 1 0 0 1
+device=AD622
 }
 C 53400 49300 1 0 0 resistor-1.sym
 {
@@ -1485,7 +1505,7 @@ device=TL084
 T 60200 51325 5 8 0 0 0 0 1
 symversion=1.0
 T 60200 50100 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 T 60200 48400 5 10 0 1 0 0 1
 slot=2
 T 61100 48900 5 10 1 1 0 0 1
@@ -1580,6 +1600,10 @@ C 56000 43000 1 0 0 AD622.sym
 {
 T 57345 43422 5 10 1 1 0 0 1
 refdes=U611
+T 56000 43000 5 10 0 1 0 0 1
+footprint=SO8
+T 56000 43000 5 10 0 1 0 0 1
+device=AD622
 }
 C 53500 44000 1 0 0 resistor-1.sym
 {
@@ -1801,7 +1825,7 @@ device=TL084
 T 60300 46025 5 8 0 0 0 0 1
 symversion=1.0
 T 60300 44800 5 8 0 0 0 0 1
-footprint=DIP14
+footprint=TSSOP14
 T 60300 43100 5 10 0 1 0 0 1
 slot=3
 T 61200 43600 5 10 1 1 0 0 1
