@@ -682,14 +682,6 @@ ChangePinName(U701, 14, D1)
 ChangePinName(U701, 5, VSS)
 ChangePinName(U701, 3, GND)
 
-# Start of element C642
-ChangePinName(C642, 2, 2)
-ChangePinName(C642, 1, 1)
-
-# Start of element C641
-ChangePinName(C641, 2, 2)
-ChangePinName(C641, 1, 1)
-
 # Start of element R654
 ChangePinName(R654, 1, 1)
 ChangePinName(R654, 2, 2)
@@ -755,14 +747,6 @@ ChangePinName(U608, 1, Rg)
 ChangePinName(U608, 6, OUT)
 ChangePinName(U608, 3, +)
 ChangePinName(U608, 2, -)
-
-# Start of element C635
-ChangePinName(C635, 2, 2)
-ChangePinName(C635, 1, 1)
-
-# Start of element C634
-ChangePinName(C634, 2, 2)
-ChangePinName(C634, 1, 1)
 
 # Start of element R645
 ChangePinName(R645, 1, 1)
@@ -833,8 +817,16 @@ ChangePinName(U607, 2, -)
 # Start of element C628
 ChangePinName(C628, 2, 2)
 ChangePinName(C628, 1, 1)
+ChangePinName(C628, 2, 2)
+ChangePinName(C628, 1, 1)
+ChangePinName(C628, 2, 2)
+ChangePinName(C628, 1, 1)
 
 # Start of element C627
+ChangePinName(C627, 2, 2)
+ChangePinName(C627, 1, 1)
+ChangePinName(C627, 2, 2)
+ChangePinName(C627, 1, 1)
 ChangePinName(C627, 2, 2)
 ChangePinName(C627, 1, 1)
 
@@ -921,14 +913,6 @@ ChangePinName(U605, 6, OUT)
 ChangePinName(U605, 3, +)
 ChangePinName(U605, 2, -)
 
-# Start of element C621
-ChangePinName(C621, 2, 2)
-ChangePinName(C621, 1, 1)
-
-# Start of element C620
-ChangePinName(C620, 2, 2)
-ChangePinName(C620, 1, 1)
-
 # Start of element R627
 ChangePinName(R627, 1, 1)
 ChangePinName(R627, 2, 2)
@@ -994,14 +978,6 @@ ChangePinName(U604, 1, Rg)
 ChangePinName(U604, 6, OUT)
 ChangePinName(U604, 3, +)
 ChangePinName(U604, 2, -)
-
-# Start of element C614
-ChangePinName(C614, 2, 2)
-ChangePinName(C614, 1, 1)
-
-# Start of element C613
-ChangePinName(C613, 2, 2)
-ChangePinName(C613, 1, 1)
 
 # Start of element R618
 ChangePinName(R618, 1, 1)
@@ -1072,8 +1048,16 @@ ChangePinName(U603, 2, -)
 # Start of element C607
 ChangePinName(C607, 2, 2)
 ChangePinName(C607, 1, 1)
+ChangePinName(C607, 2, 2)
+ChangePinName(C607, 1, 1)
+ChangePinName(C607, 2, 2)
+ChangePinName(C607, 1, 1)
 
 # Start of element C606
+ChangePinName(C606, 2, 2)
+ChangePinName(C606, 1, 1)
+ChangePinName(C606, 2, 2)
+ChangePinName(C606, 1, 1)
 ChangePinName(C606, 2, 2)
 ChangePinName(C606, 1, 1)
 
