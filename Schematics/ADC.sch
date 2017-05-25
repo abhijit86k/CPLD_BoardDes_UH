@@ -783,7 +783,7 @@ netname=SCK2
 N 45800 43700 44800 43700 4
 {
 T 45300 43700 5 10 1 1 0 3 1
-netname=CSTMP_2
+netname=CS2
 }
 C 58600 44200 1 0 0 header20-2.sym
 {
