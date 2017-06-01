@@ -5,7 +5,7 @@ C 45800 48100 1 0 0 uln2803.sym
 T 46295 47800 5 10 1 1 0 0 1
 refdes=U401
 T 45800 48100 5 10 0 1 0 0 1
-footprint=PSOP18
+footprint=PSOP_18
 T 45800 48100 5 10 0 1 0 0 1
 device=ULN2803
 }

@@ -10,17 +10,34 @@ DRC[1000 1000 1000 1000 1500 1000]
 Flags("nameonpcb,uniquename,clearnew,snappin")
 Groups("1,c:2:3:4:5:6,s:7:8")
 Styles["Signal,1000,3600,2000,1000:Power,2500,6000,3500,1000:Fat,4000,6000,3500,1000:Skinny,600,2402,1181,600"]
-Element[0x00000000 "0805" "C1003" "0.01uF" 0 0 -3150 -3150 0 100 ""]
+
+Element["" "CRYSTAL_250MHz" "U503" "unknown" 0 0 0.0000 0.0000 0 100 ""]
 (
-	Pad[-3543 -393
-		-3543 393
-		5118 2000 5718 "1" "1" "square"]
-	    Pad[3543 -393
-		3543 393
-		5118 2000 5718 "2" "2" "square"]
-	ElementLine[-393 -2755 393 -2755 800]
-	    ElementLine[-393 2755 393 2755 800]
-)
+	Pad[-45.27mil -50.00mil -43.30mil -50.00mil 48.81mil 0.0000 60.81mil "1" "1" "square"]
+	Pad[-45.27mil 50.00mil -43.30mil 50.00mil 48.81mil 0.0000 60.81mil "2" "2" "square"]
+	Pad[43.30mil 50.00mil 45.27mil 50.00mil 48.81mil 0.0000 60.81mil "3" "3" "square,edge2"]
+	Pad[43.30mil -50.00mil 45.27mil -50.00mil 48.81mil 0.0000 60.81mil "4" "4" "square,edge2"]
+	ElementLine [-69.68mil -113.77mil 109.05mil -113.77mil 10mil]
+	ElementLine [-109.05mil 113.77mil 109.05mil 113.77mil 10mil]
+	ElementLine [109.05mil -113.77mil 109.05mil 113.77mil 10mil]
+	ElementLine [-109.05mil 113.77mil -109.05mil -74.40mil 10mil]
+	ElementArc [-69.68mil -74.40mil 39.37mil 39.37mil 270 90 10mil]
+
+	)
+
+Element["" "CRYSTAL_250MHz" "U502" "unknown" 0 0 0.0000 0.0000 0 100 ""]
+(
+	Pad[-45.27mil -50.00mil -43.30mil -50.00mil 48.81mil 0.0000 60.81mil "1" "1" "square"]
+	Pad[-45.27mil 50.00mil -43.30mil 50.00mil 48.81mil 0.0000 60.81mil "2" "2" "square"]
+	Pad[43.30mil 50.00mil 45.27mil 50.00mil 48.81mil 0.0000 60.81mil "3" "3" "square,edge2"]
+	Pad[43.30mil -50.00mil 45.27mil -50.00mil 48.81mil 0.0000 60.81mil "4" "4" "square,edge2"]
+	ElementLine [-69.68mil -113.77mil 109.05mil -113.77mil 10mil]
+	ElementLine [-109.05mil 113.77mil 109.05mil 113.77mil 10mil]
+	ElementLine [109.05mil -113.77mil 109.05mil 113.77mil 10mil]
+	ElementLine [-109.05mil 113.77mil -109.05mil -74.40mil 10mil]
+	ElementArc [-69.68mil -74.40mil 39.37mil 39.37mil 270 90 10mil]
+
+	)
 Layer(1 "top")
 (
 )

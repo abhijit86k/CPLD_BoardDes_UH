@@ -107,7 +107,7 @@ device=CAPACITOR
 T 52700 49600 5 10 0 0 90 0 1
 symversion=0.1
 T 53600 49400 5 10 0 1 0 0 1
-footprint=cap_10uF_25v_smd
+footprint=cap_100uF_16v_smd
 T 53200 49800 5 10 1 1 180 0 1
 refdes=C1104
 T 52600 49900 5 10 1 1 0 0 1
@@ -145,7 +145,7 @@ device=CAPACITOR
 T 52700 48700 5 10 0 0 90 0 1
 symversion=0.1
 T 53600 48500 5 10 0 1 0 0 1
-footprint=cap_10uF_25v_smd
+footprint=cap_100uF_16v_smd
 T 53200 48900 5 10 1 1 180 0 1
 refdes=C1105
 T 52600 49000 5 10 1 1 0 0 1
@@ -197,7 +197,7 @@ device=CAPACITOR
 T 55000 49600 5 10 0 0 90 0 1
 symversion=0.1
 T 55900 49400 5 10 0 1 0 0 1
-footprint=cap_10uF_25v_smd
+footprint=cap_100uF_16v_smd
 T 55500 49800 5 10 1 1 180 0 1
 refdes=C1109
 T 55700 49900 5 10 1 1 0 0 1
@@ -210,7 +210,7 @@ device=CAPACITOR
 T 55000 48700 5 10 0 0 90 0 1
 symversion=0.1
 T 55900 48500 5 10 0 1 0 0 1
-footprint=cap_10uF_25v_smd
+footprint=cap_100uF_16v_smd
 T 55500 48900 5 10 1 1 180 0 1
 refdes=C1110
 T 55800 49000 5 10 1 1 0 0 1

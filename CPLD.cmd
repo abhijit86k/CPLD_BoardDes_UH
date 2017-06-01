@@ -281,6 +281,12 @@ ChangePinName(CONN1001, 4, 4)
 ChangePinName(CONN1001, 2, 2)
 ChangePinName(CONN1001, 3, 3)
 
+# Start of element CONN901
+ChangePinName(CONN901, 1, 1)
+ChangePinName(CONN901, 4, 4)
+ChangePinName(CONN901, 2, 2)
+ChangePinName(CONN901, 3, 3)
+
 # Start of element C909
 ChangePinName(C909, 2, 2)
 ChangePinName(C909, 1, 1)
@@ -312,13 +318,6 @@ ChangePinName(U902, 1, EN)
 # Start of element Z903
 ChangePinName(Z903, 1, 1)
 ChangePinName(Z903, 2, 2)
-
-# Start of element CONN901
-ChangePinName(CONN901, 5, 5)
-ChangePinName(CONN901, 3, 3)
-ChangePinName(CONN901, 1, 1)
-ChangePinName(CONN901, 4, 4)
-ChangePinName(CONN901, 2, 2)
 
 # Start of element Z902
 ChangePinName(Z902, 1, 1)

@@ -5,7 +5,7 @@ C 45500 47700 1 0 0 uln2803.sym
 T 46095 47550 5 10 1 1 0 0 1
 refdes=U301
 T 45500 47700 5 10 0 1 0 0 1
-footprint=PSOP18
+footprint=PSOP_18
 T 45500 47700 5 10 0 1 0 0 1
 device=ULN2803
 }
@@ -161,7 +161,7 @@ C 45500 43400 1 0 0 uln2803.sym
 T 45995 43150 5 10 1 1 0 0 1
 refdes=U302
 T 45500 43400 5 10 0 1 0 0 1
-footprint=PSOP18
+footprint=PSOP_18
 T 45500 43400 5 10 0 1 0 0 1
 device=ULN2803
 }

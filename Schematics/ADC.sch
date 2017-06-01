@@ -27,7 +27,7 @@ netname=I1_1
 C 41500 56400 1 270 0 capacitor-1.sym
 {
 T 42200 56200 5 10 0 0 270 0 1
-device=CAPACITOR
+device=CAPACITORo
 T 42400 56200 5 10 0 0 270 0 1
 symversion=0.1
 T 41300 56100 5 10 1 1 270 0 1
